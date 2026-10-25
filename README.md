@@ -38,7 +38,7 @@
 
 **Independent developer focused on code, games, and 3D creation.**
 
-I enjoy building projects from scratch, exploring low-level programming,  
+I enjoy building projects from scratch, exploring low-level programming,<br>
 and creating immersive experiences with modern tools.
 
 </div>
@@ -51,22 +51,22 @@ and creating immersive experiences with modern tools.
 
 ### ⌘ SOFTWARE DEVELOPMENT
 
-- Rust
-- C and C++
-- Python
-- Systems programming
-- Performance and optimization
+Rust<br>
+C and C++<br>
+Python<br>
+Systems programming<br>
+Performance and optimization
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### ◈ GAME DEVELOPMENT
 
-- Unreal Engine
-- Blender and 3D modeling
-- FPS mechanics
-- Animation pipelines
-- Materials and environments
+Unreal Engine<br>
+Blender and 3D modeling<br>
+FPS mechanics<br>
+Animation pipelines<br>
+Materials and environments
 
 </td>
 </tr>
@@ -79,19 +79,19 @@ and creating immersive experiences with modern tools.
 <h3 align="center">Languages</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,lua&theme=dark" alt="Programming languages" />
 </div>
 
-<h3 align="center">Game Development & 3D</h3>
+<h3 align="center">Game Development &amp; 3D</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unreal,blender,unity,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unreal,blender,unity,godot&theme=dark" alt="Game development tools" />
 </div>
 
-<h3 align="center">Tools & Environment</h3>
+<h3 align="center">Tools &amp; Environment</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,cmake,sqlite,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,cmake,sqlite,vscode,visualstudio&theme=dark" alt="Development tools" />
 </div>
 
 ---
@@ -101,20 +101,19 @@ and creating immersive experiences with modern tools.
 <div align="center">
 
 <a href="https://github.com/KeylanDev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KeylanDev&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&ring_color=8B5CF6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KeylanDev&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&ring_color=8B5CF6" alt="GitHub statistics" />
 </a>
-
 <a href="https://github.com/KeylanDev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeylanDev&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=E5E7EB" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeylanDev&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=E5E7EB" alt="Most used languages" />
 </a>
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=KeylanDev&hide_border=true&background=050505&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeylanDev&bg_color=050505&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=KeylanDev&hide_border=true&background=050505&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub streak statistics" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeylanDev&bg_color=050505&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -124,11 +123,7 @@ and creating immersive experiences with modern tools.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KeylanDev/KeylanDev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/KeylanDev/KeylanDev/output/ocean.gif" width="100%" alt="Animated contribution snake in ocean colors" />
+<img src="https://raw.githubusercontent.com/KeylanDev/KeylanDev/output/github-snake-dark.svg" width="100%" alt="Dark GitHub contribution snake" />
 
 </div>
 
@@ -140,48 +135,48 @@ and creating immersive experiences with modern tools.
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Project 01**
+### PROJECT 01
 
 <img src="https://i.ibb.co/Q7SmNzNR/Capture-d-cran-20261025-024004.png" width="100%" alt="Project preview 1" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Project 02**
+### PROJECT 02
 
 <img src="https://i.ibb.co/YK6DNfX/Capture-d-cran-20261025-022606.png" width="100%" alt="Project preview 2" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Project 03**
+### PROJECT 03
 
 <img src="https://i.ibb.co/4R9VNfTm/ada.png" width="100%" alt="Project preview 3" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Project 04**
+### PROJECT 04
 
 <img src="https://i.ibb.co/XkWWB2Zd/q.png" width="100%" alt="Project preview 4" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Project 05**
+### PROJECT 05
 
 <img src="https://i.ibb.co/HLyNhDY1/image.png" width="100%" alt="Project preview 5" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Project 06**
+### PROJECT 06
 
 <img src="https://i.ibb.co/JwNbgJPY/d.png" width="100%" alt="Project preview 6" />
 
@@ -198,24 +193,24 @@ and creating immersive experiences with modern tools.
 <div align="center">
 
 <a href="https://github.com/KeylanDev">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.youtube.com/">
-  <img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=FF0033" alt="YouTube" />
 </a>
 <a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
 </a>
 <a href="https://discord.com/">
-  <img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
 </a>
 <a href="https://itch.io/">
-  <img src="https://img.shields.io/badge/itch.io-050505?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C" />
+  <img src="https://img.shields.io/badge/itch.io-050505?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C" alt="itch.io" />
 </a>
 
 <br><br>
 
-<sub>Focused on building. Driven by curiosity. Always improving.</sub>
+<sub>FOCUSED ON BUILDING · DRIVEN BY CURIOSITY · ALWAYS IMPROVING</sub>
 
 <br><br>
 
