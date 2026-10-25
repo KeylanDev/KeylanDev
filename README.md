@@ -1,142 +1,242 @@
-<!-- ==================== HEADER ==================== -->
+<!--
+    IVOID — GITHUB PROFILE
+    Theme: Dark / Violet / Minimal Cyberpunk
+    Replace YOUR_USERNAME with your GitHub username.
+-->
+
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-# `IVOID`
-
-### Software Developer · Game Developer · 3D Artist
-
-*Building software, crafting worlds, breaking limits.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:170D2D,70:5425A8,100:8B5CF6&height=220&section=header&text=IVOID&fontSize=80&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%2F%20GAME%20DEVELOPER&descSize=13&descAlignY=58&descColor=C4B5FD" alt="IVOID animated header"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D0D0D,50:241044,100:6C3BFF&text=IVOID&fontColor=FFFFFF&fontSize=65&fontAlignY=55&animation=fadeIn&stroke=6C3BFF&strokeWidth=1" width="100%" alt="IVOID banner"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+software+from+scratch.;Rust+%7C+C%2B%2B+%7C+Systems+Programming;Creating+worlds+with+Unreal+Engine.;Modeling.+Rigging.+Animating.;Turning+ideas+into+reality." alt="Animated typing introduction"/>
+</a>
 
-<br>
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/)
-[![Rust](https://img.shields.io/badge/Rust-0D0D0D?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0D0D0D?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)](https://www.unrealengine.com/)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_USERNAME)
+[![Rust](https://img.shields.io/badge/Rust-050505?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-050505?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)](https://www.unrealengine.com/)
 
 </div>
 
----
+<br>
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ===================== ABOUT ===================== -->
 
-## `01` — About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" alt="Purple separator"/>
 
-```rust
-struct Developer {
-    name: &'static str,
-    focus: [&'static str; 4],
-    interests: [&'static str; 4],
-}
+<h2 align="center">01 / ABOUT ME</h2>
 
-fn main() {
-    let me = Developer {
-        name: "IVOID",
-        focus: [
-            "Systems Programming",
-            "Game Development",
-            "3D Modeling & Animation",
-            "Software Engineering",
-        ],
-        interests: [
-            "Rust & C++",
-            "Game Engines",
-            "Linux",
-            "Graphics & Rendering",
-        ],
-    };
-}
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   IDENTITY     IVOID                         │
+│   ROLE         Software / Game Developer     │
+│   LANGUAGES    Rust · C · C++ · Python       │
+│   ENGINE       Unreal Engine                 │
+│   CREATION     3D Modeling & Animation       │
+│   ENVIRONMENT  Linux                         │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-- **Development:** Systems programming, application development and game mechanics.
-- **Game Development:** Building immersive experiences with Unreal Engine and Blender.
-- **3D Art:** Modeling, texturing, rigging and animation.
-- **Environment:** Linux, open-source software and development tools.
-
----
-
-## `02` — Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,python,zig,lua&theme=dark" alt="Programming languages"/>
-
-### Game Development & 3D
-
-<img src="https://skillicons.dev/icons?i=unreal,blender,unity,godot&theme=dark" alt="Game development tools"/>
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,visualstudio,sqlite,ae&theme=dark" alt="Development tools"/>
+<em>Independent developer focused on code, performance and creation.</em>
 
 </div>
-
----
-
-## `03` — Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|:---|:---|
-| **Systems** | Rust, C and C++ |
-| **Game Development** | Unreal Engine and gameplay programming |
-| **3D Pipeline** | Blender, rigging and animation |
-| **Software** | Performance, architecture and clean code |
-| **Environment** | Linux and open-source tooling |
-
-</div>
-
----
-
-## `04` — Projects & Visuals
-
-<div align="center">
-
-<!-- Replace these URLs with your own project screenshots -->
-
-<img src="https://i.ibb.co/Q7SmNzNR/Capture-d-cran-20261025-024004.png" width="90%" alt="Project showcase"/>
-
-<br><br>
-
-<img src="https://i.ibb.co/YK6DNfX/Capture-d-cran-20261025-022606.png" width="44%" alt="Project screenshot"/>
-<img src="https://i.ibb.co/4R9VNfTm/ada.png" width="44%" alt="Project screenshot"/>
-
-<br><br>
-
-<img src="https://i.ibb.co/XkWWB2Zd/q.png" width="44%" alt="Project screenshot"/>
-<img src="https://i.ibb.co/HLyNhDY1/image.png" width="44%" alt="Project screenshot"/>
-
-<br><br>
-
-<img src="https://i.ibb.co/JwNbgJPY/d.png" width="70%" alt="Project screenshot"/>
-
-</div>
-
----
-
-## `05` — Connect
-
-<div align="center">
-
-<!-- Replace the placeholder links with your actual profiles -->
-
-[![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0033)](https://www.youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-111111?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C)](https://itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6C3BFF" width="100%" alt="Purple divider"/>
+<!-- ===================== TECH STACK ===================== -->
 
-<sub>Designed & built by IVOID</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" alt="Purple separator"/>
+
+<h2 align="center">02 / TECHNOLOGIES</h2>
+
+<div align="center">
+
+### `// PROGRAMMING LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,python,zig,lua&theme=dark&perline=7" alt="Programming languages"/>
+
+<br><br>
+
+### `// GAME DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=unreal,blender,unity,godot&theme=dark&perline=4" alt="Game development"/>
+
+<br><br>
+
+### `// TOOLS & ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,visualstudio,sqlite,cmake,vscode&theme=dark&perline=7" alt="Development tools"/>
+
+</div>
+
+<br>
+
+<!-- ===================== FOCUS ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" alt="Purple separator"/>
+
+<h2 align="center">03 / CURRENT FOCUS</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚙️ Systems Programming
+
+Rust · C · C++
+
+Performance, architecture and low-level concepts.
+
+</td>
+<td width="50%" align="center">
+
+### 🎮 Game Development
+
+Unreal Engine · C++
+
+Gameplay systems and immersive experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### ◈ 3D Creation
+
+Blender · Modeling · Rigging
+
+Assets, animation and game-ready models.
+
+</td>
+<td width="50%" align="center">
+
+### ⌘ Linux & Tooling
+
+Linux · Git · Open Source
+
+Development environments and workflows.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" alt="Purple separator"/>
+
+<h2 align="center">04 / GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=09090B&border=6D28D900&stroke=6D28D9&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub contribution streak"/>
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">05 / CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=09090b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=IVOID%20%2F%20ACTIVITY%20GRAPH" alt="Animated contribution activity graph"/>
+
+</div>
+
+<br>
+
+<!-- ===================== PROJECT SHOWCASE ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" alt="Purple separator"/>
+
+<h2 align="center">06 / SELECTED WORKS</h2>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<br><br>
+
+<!-- Replace these images with your own project screenshots -->
+
+<img width="90%" src="https://i.ibb.co/Q7SmNzNR/Capture-d-cran-20261025-024004.png" alt="Main project showcase"/>
+
+<br><br>
+
+<img width="44%" src="https://i.ibb.co/YK6DNfX/Capture-d-cran-20261025-022606.png" alt="Project preview one"/>
+<img width="44%" src="https://i.ibb.co/4R9VNfTm/ada.png" alt="Project preview two"/>
+
+<br><br>
+
+<img width="44%" src="https://i.ibb.co/XkWWB2Zd/q.png" alt="Project preview three"/>
+<img width="44%" src="https://i.ibb.co/HLyNhDY1/image.png" alt="Project preview four"/>
+
+<br><br>
+
+<img width="70%" src="https://i.ibb.co/JwNbgJPY/d.png" alt="Project preview five"/>
+
+</div>
+
+<br>
+
+<!-- ===================== SOCIALS ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" alt="Purple separator"/>
+
+<h2 align="center">07 / CONNECT</h2>
+
+<div align="center">
+
+<a href="https://www.youtube.com/">
+<img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=FF0033" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord"/>
+</a>
+<a href="https://itch.io/">
+<img src="https://img.shields.io/badge/ITCH.IO-111111?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C" alt="itch.io"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:241044,100:050505&height=120&section=footer" width="100%" alt="Animated footer"/>
+
+<sub>IVOID © 2026 · Built with code and creativity.</sub>
 
 </div>
