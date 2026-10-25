@@ -1,87 +1,142 @@
-<h2 data-importer="text" align="left">𝙃𝙞 ! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙄𝙫𝙤𝙞𝙙</h2>
+<!-- ==================== HEADER ==================== -->
 
-###
+<div align="center">
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" alt="zig logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="clion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="30" alt="gentoo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+# `IVOID`
+
+### Software Developer · Game Developer · 3D Artist
+
+*Building software, crafting worlds, breaking limits.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D0D0D,50:241044,100:6C3BFF&text=IVOID&fontColor=FFFFFF&fontSize=65&fontAlignY=55&animation=fadeIn&stroke=6C3BFF&strokeWidth=1" width="100%" alt="IVOID banner"/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/)
+[![Rust](https://img.shields.io/badge/Rust-0D0D0D?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0D0D0D?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)](https://www.unrealengine.com/)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=Keylan-dev0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+<!-- ==================== ABOUT ==================== -->
+
+## `01` — About Me
+
+```rust
+struct Developer {
+    name: &'static str,
+    focus: [&'static str; 4],
+    interests: [&'static str; 4],
+}
+
+fn main() {
+    let me = Developer {
+        name: "IVOID",
+        focus: [
+            "Systems Programming",
+            "Game Development",
+            "3D Modeling & Animation",
+            "Software Engineering",
+        ],
+        interests: [
+            "Rust & C++",
+            "Game Engines",
+            "Linux",
+            "Graphics & Rendering",
+        ],
+    };
+}
+```
+
+- **Development:** Systems programming, application development and game mechanics.
+- **Game Development:** Building immersive experiences with Unreal Engine and Blender.
+- **3D Art:** Modeling, texturing, rigging and animation.
+- **Environment:** Linux, open-source software and development tools.
+
+---
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,python,zig,lua&theme=dark" alt="Programming languages"/>
+
+### Game Development & 3D
+
+<img src="https://skillicons.dev/icons?i=unreal,blender,unity,godot&theme=dark" alt="Game development tools"/>
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,visualstudio,sqlite,ae&theme=dark" alt="Development tools"/>
+
 </div>
 
-###
+---
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="367" src="https://i.ibb.co/Q7SmNzNR/Capture-d-cran-20261025-024004.png================="  />
+## `03` — Current Focus
+
+<div align="center">
+
+| Area | Focus |
+|:---|:---|
+| **Systems** | Rust, C and C++ |
+| **Game Development** | Unreal Engine and gameplay programming |
+| **3D Pipeline** | Blender, rigging and animation |
+| **Software** | Performance, architecture and clean code |
+| **Environment** | Linux and open-source tooling |
+
 </div>
 
-###
-<div data-importer="image" align="center">
-<img data-importer="image" align="right" height="401" src="https://i.ibb.co/YK6DNfX/Capture-d-cran-20261025-022606.png"  />
+---
+
+## `04` — Projects & Visuals
+
+<div align="center">
+
+<!-- Replace these URLs with your own project screenshots -->
+
+<img src="https://i.ibb.co/Q7SmNzNR/Capture-d-cran-20261025-024004.png" width="90%" alt="Project showcase"/>
+
+<br><br>
+
+<img src="https://i.ibb.co/YK6DNfX/Capture-d-cran-20261025-022606.png" width="44%" alt="Project screenshot"/>
+<img src="https://i.ibb.co/4R9VNfTm/ada.png" width="44%" alt="Project screenshot"/>
+
+<br><br>
+
+<img src="https://i.ibb.co/XkWWB2Zd/q.png" width="44%" alt="Project screenshot"/>
+<img src="https://i.ibb.co/HLyNhDY1/image.png" width="44%" alt="Project screenshot"/>
+
+<br><br>
+
+<img src="https://i.ibb.co/JwNbgJPY/d.png" width="70%" alt="Project screenshot"/>
+
 </div>
 
-<div data-importer="image" align="center">
-<img data-importer="image" align="right" height="401" src="https://i.ibb.co/4R9VNfTm/ada.png"  />
-</div>
+---
 
-<div data-importer="image" align="center">
-<img data-importer="image" align="right" height="401" src="https://i.ibb.co/XkWWB2Zd/q.png"  />
-</div>
+## `05` — Connect
 
-<div data-importer="image" align="center">
-<img data-importer="image" align="right" height="401" src="https://i.ibb.co/HLyNhDY1/image.png"  />
-</div>
+<div align="center">
 
-<div data-importer="image" align="center">
-<img data-importer="image" align="right" height="401" src="https://i.ibb.co/JwNbgJPY/d.png"  />
+<!-- Replace the placeholder links with your actual profiles -->
+
+[![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FF0033)](https://www.youtube.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-111111?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C)](https://itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6C3BFF" width="100%" alt="Purple divider"/>
+
+<sub>Designed & built by IVOID</sub>
+
 </div>
