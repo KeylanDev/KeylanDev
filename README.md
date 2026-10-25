@@ -26,9 +26,7 @@
 <a href="https://www.unrealengine.com/">
 <img src="https://img.shields.io/badge/Unreal_Engine-09090B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine"/>
 </a>
-<a href="https://www.maxon.net/en/zbrush">
-<img src="https://img.shields.io/badge/ZBrush-09090B?style=for-the-badge&logoColor=FFFFFF" alt="ZBrush"/>
-</a>
+
 
 <a href="https://www.maxon.net/en/zbrush">
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ZBrush%20icon%20new.svg" height="28" alt="ZBrush logo"/>
