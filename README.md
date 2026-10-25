@@ -26,6 +26,9 @@
 <a href="https://www.unrealengine.com/">
 <img src="https://img.shields.io/badge/Unreal_Engine-09090B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine"/>
 </a>
+<a href="https://www.maxon.net/en/zbrush">
+<img src="https://img.shields.io/badge/ZBrush-09090B?style=for-the-badge&logo=zbrush&logoColor=FFFFFF" alt="ZBrush"/>
+</a>
 
 </div>
 
@@ -70,11 +73,11 @@ Systems programming, software architecture, performance optimization, and develo
 
 <div align="center">
 
-Unreal Engine · Blender · Unity · Godot
+Unreal Engine · Blender · ZBrush · Unity · Godot
 
 <br>
 
-Game systems, 3D modeling, materials, rigging, and animation.
+Game systems, 3D modeling, digital sculpting, materials, rigging, and animation.
 
 </div>
 
@@ -99,6 +102,12 @@ Game systems, 3D modeling, materials, rigging, and animation.
 <h3>Game Development & 3D</h3>
 
 <img src="https://skillicons.dev/icons?i=unreal,blender,unity,godot&theme=dark&perline=4" alt="Game engines and 3D software"/>
+
+<br><br>
+
+<a href="https://www.maxon.net/en/zbrush">
+<img src="https://img.shields.io/badge/ZBrush-09090B?style=for-the-badge&logo=zbrush&logoColor=FFFFFF" alt="ZBrush"/>
+</a>
 
 <br>
 
