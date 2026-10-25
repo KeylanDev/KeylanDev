@@ -1,43 +1,47 @@
-<!-- ═══════════════════════ IVOID ═══════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,30:170D2D,70:5425A8,100:8B5CF6&text=IVOID&fontSize=85&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%2F%20GAME%20DEVELOPER&descAlignY=62&descSize=14&descColor=C4B5FD" alt="IVOID banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,30:170D2D,70:5425A8,100:8B5CF6&text=KeylanDev&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%2F%20GAME%20DEVELOPER&descAlignY=62&descSize=14&descColor=C4B5FD" alt="KeylanDev banner"/>
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/KeylanDev">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+software+from+scratch.;Rust+%2F%2F+C%2B%2B+%2F%2F+Systems+Programming;Creating+worlds+with+Unreal+Engine.;Modeling.+Rigging.+Animating.;Ideas+into+reality." alt="Animated developer introduction"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=KeylanDev&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_USERNAME)
-[![Rust](https://img.shields.io/badge/Rust-09090B?style=for-the-badge&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-09090B?style=for-the-badge&logo=cplusplus&logoColor=6295CB)](https://isocpp.org/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-09090B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)](https://www.unrealengine.com/)
+<a href="https://github.com/KeylanDev">
+<img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="https://www.rust-lang.org/">
+<img src="https://img.shields.io/badge/Rust-09090B?style=for-the-badge&logo=rust&logoColor=CE412B" alt="Rust"/>
+</a>
+<a href="https://isocpp.org/">
+<img src="https://img.shields.io/badge/C%2B%2B-09090B?style=for-the-badge&logo=cplusplus&logoColor=6295CB" alt="C++"/>
+</a>
+<a href="https://www.unrealengine.com/">
+<img src="https://img.shields.io/badge/Unreal_Engine-09090B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine"/>
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6D28D9" width="100%" alt="Purple separator"/>
-
 </div>
 
 <h2 align="center">▰ ABOUT ME</h2>
 
 <div align="center">
 
-**Independent Developer · Systems Programming · Game Development · 3D Art**
+**KeylanDev · Independent Developer · Systems Programming · Game Development · 3D Art**
 
-*I build software, explore performance, and create interactive worlds.*
+*Building software, exploring performance, and creating interactive worlds.*
 
 </div>
 
@@ -55,7 +59,7 @@ Rust · C · C++ · Python · Zig · C# · Lua
 
 <br>
 
-Systems programming, software architecture, performance and development tools.
+Systems programming, software architecture, performance optimization, and development tools.
 
 </div>
 
@@ -70,7 +74,7 @@ Unreal Engine · Blender · Unity · Godot
 
 <br>
 
-Game systems, 3D modeling, materials, rigging and animation.
+Game systems, 3D modeling, materials, rigging, and animation.
 
 </div>
 
@@ -112,21 +116,21 @@ Game systems, 3D modeling, materials, rigging and animation.
 
 <h2>▰ GITHUB STATISTICS</h2>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/KeylanDev">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=KeylanDev&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Most used languages"/>
+<a href="https://github.com/KeylanDev">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeylanDev&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Most used languages"/>
 </a>
 
 <br><br>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=09090B&stroke=6D28D9&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com/?user=KeylanDev&hide_border=true&background=09090B&stroke=6D28D9&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub contribution streak"/>
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=09090B&color=C4B5FD&line=7C3AED&point=E9D5FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeylanDev&bg_color=09090B&color=C4B5FD&line=7C3AED&point=E9D5FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution graph"/>
 
 </div>
 
@@ -138,9 +142,9 @@ Game systems, 3D modeling, materials, rigging and animation.
 
 <h2>▰ PROJECT SHOWCASE</h2>
 
-<p><i>Selected creations, experiments and work in progress.</i></p>
+<p><i>Selected creations, experiments, and work in progress.</i></p>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/KeylanDev?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
 </a>
 
@@ -193,8 +197,8 @@ Game systems, 3D modeling, materials, rigging and animation.
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,40:241044,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,40:241044,100:050505" alt="Purple footer"/>
 
-<sub>IVOID · Built with code and creativity.</sub>
+<sub>KeylanDev · Built with code and creativity.</sub>
 
 </div>
